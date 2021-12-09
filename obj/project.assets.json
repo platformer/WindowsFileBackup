@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Andrew\\2. Programming\\Projects\\C#\\WindowsFileBackup\\WindowsFileBackup\\WindowsFileBackup\\WindowsFileBackup.csproj",
+      "projectUniqueName": "C:\\Andrew\\2. Programming\\Projects\\C#\\WindowsFileBackup\\WindowsFileBackup.csproj",
       "projectName": "WindowsFileBackup",
-      "projectPath": "C:\\Andrew\\2. Programming\\Projects\\C#\\WindowsFileBackup\\WindowsFileBackup\\WindowsFileBackup\\WindowsFileBackup.csproj",
+      "projectPath": "C:\\Andrew\\2. Programming\\Projects\\C#\\WindowsFileBackup\\WindowsFileBackup.csproj",
       "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
-      "outputPath": "C:\\Andrew\\2. Programming\\Projects\\C#\\WindowsFileBackup\\WindowsFileBackup\\WindowsFileBackup\\obj\\",
+      "outputPath": "C:\\Andrew\\2. Programming\\Projects\\C#\\WindowsFileBackup\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
